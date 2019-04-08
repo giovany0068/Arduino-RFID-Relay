@@ -1,4 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "tags.ino"
+    "sketch": "tags.ino",
+    "port": "COM15"
 }
