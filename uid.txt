@@ -1,6 +1,6 @@
 Cards UID:
 
-F4 3B 63 A3     Profe Zamu
+D0 0D 20 25     Profe Zamu
 20 3A FB 79     Tarjeta en blanco
 F0 13 39 83     Llavero 1
 F4 3B 63 A3     Llavero 2
