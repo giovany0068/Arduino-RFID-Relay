@@ -1,6 +1,6 @@
 #include <SPI.h>
 #include <MFRC522.h>
-
+//funconalidad modulo relay
 #define RST_PIN	9    //Pin 9 para el reset del RC522
 #define SS_PIN	10   //Pin 10 para el SS (SDA) del RC522
 MFRC522 mfrc522(SS_PIN, RST_PIN); ///Creamos el objeto para el RC522
